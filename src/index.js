@@ -1,3 +1,5 @@
 'use strict';
 
-function add() {}
+function add() {
+  return null
+}
